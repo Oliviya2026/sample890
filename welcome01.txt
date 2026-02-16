@@ -2,6 +2,6 @@ hello. This is my txt file.
 hi
 Check changes
 
-helloo this is my second change
+helloo
 
-hi how are you
+test1 soon 
